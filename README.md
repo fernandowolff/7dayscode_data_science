@@ -23,4 +23,4 @@ The third challenge involved forecasting over the CEAPS data. Here I tried to pr
 
 The fourth challenge is about creating recommendation models. Moving away from CEAPS data, this challenge used the MovieLens 100K dataset, where we have available 100k movie ratings from 1k users on 1.7k movies.
 
-The idea is to try some different approaches for recommending movies to people, like, randonly, most-popular, genre preferences and possible getting to a ML model to consider multiple factors.
+The idea is to try some different approaches for recommending movies to people, like, randonly, most-popular, genre preferences and possibly getting to a ML model to consider multiple factors.
